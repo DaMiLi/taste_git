@@ -1,7 +1,4 @@
-# taste_git
-just first github taste change something
+# README
 
-eidt the readme.md file
-
-This is different with the branch Master
-
+introduction file 
+for taste_git
